@@ -1,2 +1,2 @@
 # kofeflix-clone-netflix
- Recriando a página inicial da Netflix.
+ Desafio do curso de HTML da Digital Innovation One, Recriando a página inicial da Netflix.
